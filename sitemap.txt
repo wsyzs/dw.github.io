@@ -1,2 +1,2 @@
-http://wsyzs.github.io/2022/08/29/hello-world/
-http://wsyzs.github.io/
+http://example.com/2022/08/29/hello-world/
+http://example.com/

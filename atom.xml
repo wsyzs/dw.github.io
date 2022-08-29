@@ -3,11 +3,11 @@
   <title>wsblog</title>
   
   
-  <link href="http://wsyzs.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="http://wsyzs.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2022-08-29T02:35:18.806Z</updated>
-  <id>http://wsyzs.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>wsyzs</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://wsyzs.github.io/2022/08/29/hello-world/"/>
-    <id>http://wsyzs.github.io/2022/08/29/hello-world/</id>
+    <link href="http://example.com/2022/08/29/hello-world/"/>
+    <id>http://example.com/2022/08/29/hello-world/</id>
     <published>2022-08-29T02:35:18.806Z</published>
     <updated>2022-08-29T02:35:18.806Z</updated>
     
